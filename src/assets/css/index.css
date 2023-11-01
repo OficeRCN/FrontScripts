@@ -1,0 +1,21 @@
+*, 
+*::before, 
+*::after{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:ge;
+}
+
+
+ @font-face {
+    font-family: 'Geist Bold';
+    src: url("/fonts/GeistBold.otf");
+ }
+
+:root{
+
+    --ff-login-title: 'Geist Bold'
+
+}
+

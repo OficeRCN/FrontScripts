@@ -1,0 +1,20 @@
+<svg width="179" height="322" viewBox="0 0 179 322" fill="none" xmlns="http://www.w3.org/2000/svg">
+<ellipse cx="89.3047" cy="310.68" rx="89.3047" ry="11.3203" fill="#92CACE" fill-opacity="0.29"/>
+<rect x="15.0938" width="150.938" height="311.938" rx="10" fill="#92CACE"/>
+<circle cx="76.7266" cy="96.8516" r="13.8359" fill="#F2F9F9"/>
+<circle cx="89.3047" cy="96.8516" r="13.8359" fill="#F2F9F9"/>
+<circle cx="104.398" cy="96.8516" r="13.8359" fill="#356169"/>
+<rect x="47.8469" y="62.9406" width="82.9156" height="70.3375" stroke="#F2F9F9" stroke-width="0.1"/>
+<rect x="47.7969" width="83.0156" height="20.125" rx="10" fill="#1A2C32"/>
+<circle cx="38.9922" cy="169.805" r="3.77344" fill="#356169"/>
+<mask id="path-9-inside-1_2_19" fill="white">
+<path d="M32.7031 158.484H148.422V178.609H32.7031V158.484Z"/>
+</mask>
+<path d="M148.422 178.509H32.7031V178.709H148.422V178.509Z" fill="#F2F9F9" mask="url(#path-9-inside-1_2_19)"/>
+<circle cx="38.9922" cy="199.992" r="3.77344" fill="#356169"/>
+<mask id="path-12-inside-2_2_19" fill="white">
+<path d="M32.7031 188.672H148.422V208.797H32.7031V188.672Z"/>
+</mask>
+<path d="M148.422 208.697H32.7031V208.897H148.422V208.697Z" fill="#F2F9F9" mask="url(#path-12-inside-2_2_19)"/>
+<rect x="118.234" y="228.922" width="30.1875" height="12.5781" fill="#356169"/>
+</svg>
